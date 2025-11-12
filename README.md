@@ -1,13 +1,13 @@
 # ChalkJuice
 
-[Use the Model](https://chalkjuice.com)
+[Use the Model](https://www.chalkjuice.com)
 
 ![Solution Image](data/chalkjuice_diagram.png)
 link to diagram 'https://excalidraw.com/#json=aa60tQfZB0d3HoVcrRHSj,0hysc_ad41UkUoPTq4dhgQ'
 
-# Barry - NFL Game Prediction Model 
+# NFL Game Prediction Model 
 
-Barry uses Machine Learning and a dataset of all previous NFL matchups to predict the amount of times a team will win against the provided opponent. 
+Machine Learning and a dataset of all previous NFL matchups are used to predict the amount of times a team will win against the provided opponent. 
 
 When a team wins in an actual NFL matchup, the winning team isnt neccesarily the better team, it was just the better team that day. This model simulates a matchup 100 times, providing a better understaning of which team is better. 
 
