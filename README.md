@@ -1,6 +1,6 @@
 # ChalkJuice
 
-[Use the Model](https://chalkjuice.com)
+[Use the Model](https://www.chalkjuice.com)
 
 ![Solution Image](data/chalkjuice_diagram.png)
 link to diagram 'https://excalidraw.com/#json=aa60tQfZB0d3HoVcrRHSj,0hysc_ad41UkUoPTq4dhgQ'
